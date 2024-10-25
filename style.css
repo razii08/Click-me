@@ -1,0 +1,17 @@
+#box{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  font-size: 4.1rem;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(59, 195, 59);
+  border-radius: 15px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 100px;
+}
